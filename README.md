@@ -18,3 +18,11 @@
 ## packages the used in the project:
 
 - [React Icons] -> npm install react-icons --save
+
+### the image
+- that is used in the portfolio section is from: 
+- [dribbble](https://dribbble.com/Alien_Pixels)
+
+## for the testimonial slide
+- [slides](https://swiperjs.com/)
+- npm i swiper
